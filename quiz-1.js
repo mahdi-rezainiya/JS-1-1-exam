@@ -25,7 +25,6 @@ const names = [
   "Asher",
   "amuel",
 ];
-
 // method one
 let filterNames = [];
 

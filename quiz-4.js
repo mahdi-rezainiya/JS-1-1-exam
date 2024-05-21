@@ -7,7 +7,7 @@ function countEvenNumbers(num) {
     even.push(i);
     countEven ++;
   }
-  return `${even} : count ${countEven}` ;
+  return `${even} : count ${countEven}`;
 }
 
 console.log(countEvenNumbers(20));

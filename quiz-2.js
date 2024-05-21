@@ -69,6 +69,7 @@ const cities = [
   },
 ];
 
+// answer
 const sortCities = cities.sort((a, b) => {
   return b.population - a.population;
 });

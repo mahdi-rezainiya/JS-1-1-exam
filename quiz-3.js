@@ -14,8 +14,6 @@ const arr = ["javaScript", "java" ,"python"]; // Don't modify this array
 // console.log(getLongestWords(arr));
 // console.log(...getLongestWords(arr));
 
-
-
 // method two
 
 function getLongestWords(array){

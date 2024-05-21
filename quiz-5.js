@@ -7,6 +7,7 @@ function countChar(word , char){
 
     return wordLower.split("").filter((i) => {
         return i === charLower;
-    }).length
+    }).length;
 }
+
 console.log(countChar("mahdi rezainiya" , "i" ));
